@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Spotify Clone",
+  "description": "A visually stunning clone of Spotify with an AI-powered playlist generator. Experience a familiar interface and create unique playlists based on your mood, genre, or any creative prompt using the Gemini API.",
+  "requestFramePermissions": []
+}
